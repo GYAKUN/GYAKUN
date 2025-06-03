@@ -21,11 +21,17 @@
 
 ###
 
-<h2 align="left">🎶 Lil B | B.O.R:</h2>
+<h2 align="left">🎶 B.O.R:</h2>
 
 ###
 
-<p align="left">Just for now, just for now, just for now //<br><br>It's that time of year //<br><br>Leave all our hopelessnesses aside //</p>
+<br clear="both">
+
+<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZnbnE4YTR6cWpqNWM3amFmcWJrNDVrZjgxaGdiOGFrZWU4bWhscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elcAvTEXkG02d17sr7/giphy.gif"/>
+
+###
+
+<p align="right">Just for now, just for now, just for now //<br><br>It's that time of year //<br><br>Leave all our hopelessnesses aside //</p>
 
 ###
 
@@ -34,3 +40,6 @@
 </div>
 
 ###
+
+
+
