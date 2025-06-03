@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">🎶 B.O.R:</h2>
+<h2 align="left">🎶 Lil B | B.O.R:</h2>
 
 ###
 
