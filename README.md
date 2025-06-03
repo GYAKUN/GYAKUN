@@ -24,10 +24,7 @@
 
 ###
 
-<div align="right">
-  <video src="https://github.com/user-attachments/assets/fa4bca24-8bb0-4edf-8b71-e6e2c5b44fda" width="100" height="100" />
-</div>
-
+  <video src="https://github.com/user-attachments/assets/fa4bca24-8bb0-4edf-8b71-e6e2c5b44fda"/>
 
 
 
