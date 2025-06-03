@@ -24,9 +24,11 @@
 
 ###
 
-  <video src="https://github.com/user-attachments/assets/fa4bca24-8bb0-4edf-8b71-e6e2c5b44fda"/>
+https://github.com/user-attachments/assets/fa4bca24-8bb0-4edf-8b71-e6e2c5b44fda
 
+###
 
+![ezgif-8fac908ced997b](https://github.com/user-attachments/assets/df99bd75-5f66-4c9f-8438-a091416bab76)
 
 
 
