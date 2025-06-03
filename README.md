@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="80" src="https://s7.ezgif.com/tmp/ezgif-74d4ea806a0e3e.gif"  />
-</div>
+
+![ezgif-8fac908ced997b](https://github.com/user-attachments/assets/df99bd75-5f66-4c9f-8438-a091416bab76)
 
 ###
 
@@ -35,9 +34,8 @@
 
 ###
 
-<div align="center">
-  <img height="80" src="https://s7.ezgif.com/tmp/ezgif-74d4ea806a0e3e.gif"  />
-</div>
+
+  ![ezgif-8fac908ced997b](https://github.com/user-attachments/assets/df99bd75-5f66-4c9f-8438-a091416bab76)
 
 ###
 
