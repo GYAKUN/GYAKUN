@@ -22,8 +22,6 @@
 
 <h2 align="left">🎶 B.O.R:</h2>
 
-<p align="left">Just for now, just for now, just for now //<br><br>It's that time of year //<br><br>Leave all our hopelessnesses aside //</p>
-
 ###
 
 <div align="right">
