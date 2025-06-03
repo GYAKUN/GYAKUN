@@ -1,4 +1,4 @@
-# 🏄 About Me:
+# 🪐 About Me:
 🎓 A.A Computer Science <br>🎓 B.S Information Science
 
 # 💻 I code with:
