@@ -35,9 +35,5 @@
 ###
 
 
-  ![ezgif-8fac908ced997b](https://github.com/user-attachments/assets/df99bd75-5f66-4c9f-8438-a091416bab76)
-
-###
-
 
 
