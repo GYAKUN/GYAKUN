@@ -22,9 +22,11 @@
 
 <h2 align="left">🎶 B.O.R:</h2>
 
+<p align="left">Just for now, just for now, just for now //<br><br>It's that time of year //<br><br>Leave all our hopelessnesses aside //</p>
+
 ###
 
-https://github.com/user-attachments/assets/a8028f4e-6154-4e26-acab-5a62f8e5be1a
+https://github.com/user-attachments/assets/bfd9ddab-ea29-441f-9696-eb4daf6f2bc1
 
 
 
