@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img height="164" src="https://s7.ezgif.com/tmp/ezgif-7cea19eb553140.gif"  />
+  <img height="100" src="https://s7.ezgif.com/tmp/ezgif-74d4ea806a0e3e.gif"  />
 </div>
 
 ###
